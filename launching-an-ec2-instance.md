@@ -66,14 +66,6 @@ Amazon Elastic Compute Cloud (EC2) provides scalable virtual servers in the clou
 ### 9. Advanced details
 1. Leave all settings as default for a simple setup.
 2. For **User data - optional**, copy and upload the code below.
-#!/bin/bash
-#Use this for your user data (script from top to bottom)
-#install httpd (Linux 2 version)
-yum update -y
-yum install -y httpd
-systemctl start httpd
-systemctl enable httpd
-echo "<h1>Hello World from $(hostname -f)</h1>" > /var/www/html/index.html
 ![user data-jpeg](https://github.com/user-attachments/assets/0bd9352b-0476-41e9-8cf5-70156eaa6aea)
 
 
