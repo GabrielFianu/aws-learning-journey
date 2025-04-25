@@ -23,7 +23,6 @@ which is not what we want.
 3. Click Action, choose Security, and then Modify IAM role.
 4. Choose the IAM role you just created.
 ![Image](https://github.com/user-attachments/assets/5bec3e86-2d2e-4abd-830f-6aa1afa18878)
-![Image](https://github.com/user-attachments/assets/3d953e2e-fcf0-4518-82b3-a0f8084589ac)
 4. Click on Update IAM role to attach this IAM role into our Instance.
 ![Image](https://github.com/user-attachments/assets/f2c06e93-7fd1-462c-b034-0d32efad7581)
 ![Image](https://github.com/user-attachments/assets/34ee3be7-a923-4aac-8ed7-c6c7c6a34935)
