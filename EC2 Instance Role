@@ -30,5 +30,5 @@ which is not what we want.
 4. Choose the IAM role you just created.
 5. Click on Save to attach this IAM role into our Instance.
 6. So if you go back to Security tab, now the IAM role attached to Instance.
-7. Go back to your terminal and issue the command, aws iam list users and press Enter,
+7. ![Image](https://github.com/user-attachments/assets/c3e65728-9479-4388-a24e-b51189016403)Go back to your terminal and issue the command, aws iam list users and press Enter,
 8. Note the response on IAM.
